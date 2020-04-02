@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280820424272",
+    "firebase_url": "https://notificaciones-denuncia.firebaseio.com",
+    "project_id": "notificaciones-denuncia",
+    "storage_bucket": "notificaciones-denuncia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280820424272:android:3b5f41f05203f4e81b3b55",
+        "android_client_info": {
+          "package_name": "notificaciones.denuncia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280820424272-9egavks2g8g2fgjhri1u94j4clb2h2pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKc-4Z0wKWZAtIX7D7HHXiDY8z6oUZA4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280820424272-9egavks2g8g2fgjhri1u94j4clb2h2pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
